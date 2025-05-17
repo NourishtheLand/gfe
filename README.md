@@ -7,6 +7,6 @@ This is a very simple project that only needs your **[user id](https://gelbooru.
 Download Python 3 for whatever platform you are on.
 Then run:
 ```bash
-curl -O gfe.py https://raw.githubusercontent.com/NourishtheLand/gfe/refs/heads/main/gfe.py && python3 gfe.py
+curl -O https://raw.githubusercontent.com/NourishtheLand/gfe/refs/heads/main/gfe.py && python3 gfe.py
 ```
 And enjoy ;)
